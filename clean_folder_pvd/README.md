@@ -1,0 +1,1 @@
+Once installed this package sorts all your files in JUNK (OTHER / ELSE / SOME_SHIT) folder

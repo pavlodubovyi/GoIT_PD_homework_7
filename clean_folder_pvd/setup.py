@@ -14,5 +14,4 @@ setup(name="clean_folder_pvd",
           ],
       license="MIT",
       packages=find_namespace_packages(),
-      entry_points={"console_scripts": ["clean-folder=clean_folder_pvd.cleaner:clean"]}
-    )
+      entry_points={"console_scripts": ["clean-folder=clean_folder_pvd.cleaner:clean"]})
